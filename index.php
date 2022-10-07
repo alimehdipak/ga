@@ -3,7 +3,7 @@
 </head>
 <body>
 
-<?php include('randy.php'); ?>
+<?php include('https://alimehdipak.github.io/ga/randy.php'); ?>
 
 </body>
 </html>
